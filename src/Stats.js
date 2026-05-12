@@ -2,10 +2,10 @@
 import React, { useEffect, useRef, useState } from "react";
 
 const STATS = [
-  { num: 20, suffix: "+", label: "Years of Training Excellence" },
-  { num: 1200, suffix: "+", label: "Graduates Trained" },
-  { num: 800, suffix: "+", label: "Successful Placements" },
-  { num: 250, suffix: "+", label: "Hiring Partners" },
+  { num: 5, suffix: "+", label: "Years of Training Excellence" },
+  { num: 100, suffix: "+", label: "Graduates Trained" },
+  { num: 80, suffix: "+", label: "Successful Placements" },
+  { num: 50, suffix: "+", label: "Hiring Partners" },
 ];
 
 function useInView(threshold = 0.3) {

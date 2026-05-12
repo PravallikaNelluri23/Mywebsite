@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { FaCheckCircle } from "react-icons/fa";
 
 const STATS = [
-  { num: 20, suffix: "+", label: "Years of Experience" },
+  { num: 5, suffix: "+", label: "Years of Experience" },
   { num: 500, suffix: "+", label: "Successful Projects" },
   { num: 250, suffix: "+", label: "Happy Clients" },
   { num: 1200, suffix: "+", label: "Professionals Placed" },

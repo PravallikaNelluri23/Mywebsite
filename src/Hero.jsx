@@ -68,13 +68,13 @@ const Hero = () => {
     };
   }, [showCard]);
 
-  // 3) Animate 1 → 20 once the card becomes visible
+  // 3) Animate 1 → 5 once the card becomes visible
   //    👉 Also your existing behavior; left unchanged.
   useEffect(() => {
     if (!showCard) return;
 
     let current = 1;
-    const target = 20;
+    const target = 5;
     const duration = 2500; // 2.5 seconds
     const stepTime = Math.floor(duration / (target - current));
 
