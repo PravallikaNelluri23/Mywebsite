@@ -12,7 +12,6 @@ import WhyChooseUs from "./WhyChooseUs";
 import Services from "./Services";
 import Technologies from "./Technologies";
 import Stats from "./Stats";
-import Immigration from "./Immigration";
 import ContactForm from "./ContactForm";
 import Careers from "./Careers";
 
@@ -221,7 +220,6 @@ function App() {
       <Stats />
 
       {/* IMMIGRATION & VISA SUPPORT */}
-      <Immigration />
 
       {/* CONTACT FORM */}
       <ContactForm />
