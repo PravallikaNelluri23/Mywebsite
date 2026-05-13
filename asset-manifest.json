@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mywebsite/static/css/main.bb9041b6.css",
-    "main.js": "/Mywebsite/static/js/main.aacfda1e.js",
+    "main.js": "/Mywebsite/static/js/main.c86af60c.js",
     "static/media/tekstar-logo.png": "/Mywebsite/static/media/tekstar-logo.f40d5b40c5e99ffecd5f.png",
     "static/media/hero.jpg": "/Mywebsite/static/media/hero.acfce2462ad7f98bdc6d.jpg",
     "static/media/hero1.jpg": "/Mywebsite/static/media/hero1.7e4b7e7916247624bd4d.jpg",
@@ -9,10 +9,10 @@
     "static/media/about-bg.jpg": "/Mywebsite/static/media/about-bg.059bff79e3eadc6e2b48.jpg",
     "index.html": "/Mywebsite/index.html",
     "main.bb9041b6.css.map": "/Mywebsite/static/css/main.bb9041b6.css.map",
-    "main.aacfda1e.js.map": "/Mywebsite/static/js/main.aacfda1e.js.map"
+    "main.c86af60c.js.map": "/Mywebsite/static/js/main.c86af60c.js.map"
   },
   "entrypoints": [
     "static/css/main.bb9041b6.css",
-    "static/js/main.aacfda1e.js"
+    "static/js/main.c86af60c.js"
   ]
 }
